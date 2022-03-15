@@ -1,0 +1,17 @@
+/* selector {
+    property: value;
+} */
+
+h2 {
+  color: green;
+  font-size: 50px;
+}
+
+#world {
+  color: red;
+}
+
+.friend {
+  color: blue;
+  font-size: 100px;
+}
